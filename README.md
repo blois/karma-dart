@@ -16,7 +16,6 @@ and you'll need the following dependencies in your pubspec.yaml
 
     unittest: any
     browser: any
-    js: any
 
 The following is an example of karma config.
 
